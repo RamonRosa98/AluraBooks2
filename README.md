@@ -20,13 +20,4 @@ Design inspirado no site original da AluraBooks
 
 Interatividade com JavaScript
 
-🔧 Como Executar o Projeto
-
-Acesse a pasta do projeto:
-
-cd alurabooks-clone
-
-Abra o arquivo index.html no seu navegador.
-
-
 Desenvolvido por Ramon durante o curso da Alura 💻
